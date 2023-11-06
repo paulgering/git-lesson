@@ -1,6 +1,7 @@
 # Shopping
 - [x] Eggs
-- [ ] Milk
+- [x] Milk
 - [ ] Garlic
 - [ ] Onion
 - [ ] Pasta
+- [ ] Tomatoes
